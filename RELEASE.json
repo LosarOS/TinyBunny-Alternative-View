@@ -1,0 +1,27 @@
+{
+  "title": "Tiny Bunny: Альтернативный взгляд",
+  "version": "1.0.0",
+  "first_public_release": true,
+  "source_commit": "02a166b2e23ebc21cfea09d97d81a3157196806e",
+  "platform": "Windows",
+  "required_original": {
+    "version": "5.1.5",
+    "steam_build": "23204378"
+  },
+  "assets": [
+    {
+      "name": "TinyBunny-Alternative-View-Setup-1.0.0.exe",
+      "bytes": 220988825,
+      "sha256": "00ffa3d9347114116489d32ad678e259f82c9259ecba951273fabec3be2b41aa"
+    },
+    {
+      "name": "TinyBunny-Alternative-View-1.0.0.zip",
+      "bytes": 219095094,
+      "sha256": "c7e374997e6ad29ed678e228454deb8c39882c2dfcad01fd9a653c7e859e3534"
+    }
+  ],
+  "release_url": "https://github.com/LosarOS/TinyBunny-Alternative-View/releases/tag/v1.0.0",
+  "original_game_included": false,
+  "new_voiceover": false,
+  "note": "Public distribution aliases preserve the exact accepted installer and ZIP bytes."
+}
